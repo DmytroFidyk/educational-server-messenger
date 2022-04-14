@@ -1,0 +1,16 @@
+{
+  "name": "messenger-private-server",
+  "version": "1.0.0",
+  "description": "Educational (non-comercial) project for messaging",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Dmytro Fidyk",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.3",
+    "socket.io": "^4.4.1"
+  }
+}
